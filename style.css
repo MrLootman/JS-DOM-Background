@@ -1,0 +1,65 @@
+/* Police */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Globals settings */
+
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #0D111D;
+}
+
+button, select, option {
+  cursor: pointer;
+  padding: 0.6rem 1.2rem;
+  font-size: 1.2rem;
+}
+
+main, section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Main */
+
+main {
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Header */
+
+main header {
+  height: 100px;
+  flex-basis: 100%;
+  padding: 1rem;
+}
+
+main header img {
+  height: 64px;
+}
+
+main header h1 {
+  display: inline-block;
+  color: #FFF;
+  padding: 0 0 0 2rem;
+}
+
+/* Sections */
+
+main section {
+  background-color: #FFF;
+  width: 45vw;
+  height: calc(100vh - 150px);
+  border-radius: 1rem;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;}
+
+main section:last-of-type select {
+  width: 200px;
+}
+
