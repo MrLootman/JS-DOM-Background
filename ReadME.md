@@ -2,7 +2,7 @@
 
 ---
 
-![Exercise dashboard]("./assets/bgsandbox.png")
+![bgsandbox](https://github.com/user-attachments/assets/0ff75da6-b5aa-4c88-a650-3aea607dc0a2)
 
 ---
 
