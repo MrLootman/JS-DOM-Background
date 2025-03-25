@@ -47,7 +47,7 @@ Concentre-toi à présent sur la section de droite. Cette fois, ce n'est pas un 
 
 <details open>
   <summary>Indice n° 1</summary>
-  Tu peux déclarer deux variables, pour y stocker et l'élément `select`, l'élément `section` et l'élément `button`.
+  Tu peux déclarer trois variables. La première pour y stocker l'élément `select`, la seconde pour l'élément `section` et la troisième pour l'élément `button`.
   Tu peux utiliser la méthode `document.querySelector()` pour parvenir à tes fins.
 </details>
 
